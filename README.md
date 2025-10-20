@@ -59,3 +59,9 @@ Built using Streamlit, HTML, and CSS, the app integrates deep learning models fo
 - Accessible to doctors, researchers, and students 🌍
 
 - Easy to deploy and use in healthcare setups 🚑
+
+### 👨‍💻 Author
+
+**Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
