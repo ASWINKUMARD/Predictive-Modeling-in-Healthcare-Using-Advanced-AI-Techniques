@@ -1,0 +1,2 @@
+# Predictive-Modeling-in-Healthcare-Using-Advanced-AI-Techniques
+Multi-Disease Detection Web App project integrates AI models to detect Malaria, Pneumonia, Brain Tumor, Alzheimer’s,  &amp; Skin Cancer from medical images. Built with Streamlit,provides a user-friendly interface for uploading scans, running predictions,&amp; displaying results instantly, accurate, &amp; accessible disease detection for healthcare application.
